@@ -129,8 +129,8 @@ I'm currently expanding my cloud engineering knowledge:
 | Git & GitHub | ✅ Practicing |
 | Docker | ✅ Hands-on |
 | Docker Compose | ✅ Hands-on |
-| AWS Fundamentals | 🔄 Learning |
-| AWS Infrastructure | 🔄 Learning |
+| AWS Fundamentals | ✅ Practicing  |
+| AWS Infrastructure | ✅ Practicing |
 | Terraform | 🔄 Learning |
 | Kubernetes | 🔄 Learning |
 | CI/CD | 📌 Next |
