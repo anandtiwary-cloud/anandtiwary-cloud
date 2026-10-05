@@ -1,109 +1,208 @@
-# Hi 👋, I'm Anand Tiwary
+# 👋 Hi, I'm Anand Tiwary
 
-### ☁️ Aspiring Cloud Engineer | AWS | Linux | Docker
+### ☁️ Aspiring Cloud Engineer | AWS • Linux • Docker
 
-I'm a **B.Tech Computer Science & Engineering graduate** building practical skills in **Cloud Computing and Infrastructure**.
+I'm a **Computer Science & Engineering graduate** focused on building practical skills in **Cloud Computing, Infrastructure, and Application Deployment**.
 
-I enjoy working with Linux servers, deploying applications, containerizing applications with Docker, and learning how modern cloud infrastructure works.
-
----
-
-## 🚀 About Me
-
-- 🎓 B.Tech in Computer Science & Engineering
-- ☁️ Aspiring **Cloud Engineer**
-- 🐧 Comfortable with Linux fundamentals and server administration
-- 🐳 Hands-on experience with Docker and Docker Compose
-- ☁️ Learning and working with AWS
-- 💻 Familiar with Git & GitHub
-- 🚀 Interested in cloud infrastructure, deployment and automation
-- 📚 Currently learning Terraform and Kubernetes
+I enjoy working with Linux servers, containerizing applications, deploying applications on cloud infrastructure, and understanding how real-world systems are built and operated.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧑‍💻 About Me
+
+- 🎓 **B.Tech — Computer Science & Engineering**
+- ☁️ Currently pursuing a career in **Cloud Engineering**
+- 🐧 Hands-on with **Linux and server administration fundamentals**
+- 🐳 Hands-on with **Docker & Docker Compose**
+- ☁️ Building practical knowledge of **AWS**
+- 🔧 Working with **Git, GitHub, Nginx and PM2**
+- 🚀 Interested in **Cloud Infrastructure, Deployment & Automation**
+- 📚 Currently learning **Terraform & Kubernetes**
+
+---
+
+## 🛠️ Technologies & Tools
 
 ### ☁️ Cloud
-`AWS` `EC2` `VPC` `IAM` `Security Groups`
 
-### 🐳 Containers
-`Docker` `Docker Compose`
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### 🐧 Operating Systems & Tools
-`Linux` `Git` `GitHub` `Bash` `Nginx` `PM2`
+**AWS • EC2 • VPC • IAM • Security Groups**
+
+### 🐳 Containers & Deployment
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+**Docker • Docker Compose • Nginx • PM2**
+
+### 🐧 System & Version Control
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+**Linux • Bash • Git • GitHub**
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
 ### 🎬 Netflix Clone — Cloud Deployment
 
-A full-stack Netflix-style application deployed using cloud and containerization technologies.
+A full-stack Netflix-style application that I worked on to gain practical experience with application deployment and cloud infrastructure.
 
-**Technologies:**  
-React · Node.js · Docker · Nginx · PM2 · AWS · Git
+**What I worked with:**
 
-🚀 Currently improving and documenting the deployment.
+- Dockerized frontend and backend
+- Docker Compose
+- Nginx
+- PM2
+- Linux server
+- AWS deployment
+- Git & GitHub
+- Environment variables and production configuration
+
+**Focus:** Application deployment & cloud infrastructure
 
 ---
 
 ### 🐳 Docker Production Setup
 
-Containerized frontend and backend applications using Docker and Docker Compose with a production-oriented deployment setup.
+A practical deployment setup for running a frontend and backend application using containers.
 
-**Technologies:**  
-Docker · Docker Compose · Node.js · React · Nginx
+**What I practiced:**
 
-🚀 Available in my repositories.
+- Writing Dockerfiles
+- Creating Docker images
+- Running containers
+- Docker Compose
+- Frontend & backend containerization
+- Nginx configuration
+- Production-style deployment
 
----
-
-### 🏗️ Terraform AWS Infrastructure
-
-Infrastructure-as-Code project for provisioning AWS resources using Terraform.
-
-**Technologies:**  
-Terraform · AWS · EC2 · VPC · Security Groups
-
-🚧 Currently learning and building.
-
----
-
-### ☸️ Kubernetes Deployment
-
-Container orchestration project demonstrating deployments, services and scaling using Kubernetes.
-
-**Technologies:**  
-Kubernetes · Docker · YAML · Linux
-
-🚧 Currently learning and building.
+**Focus:** Containerization & application deployment
 
 ---
 
 ## 📚 Currently Learning
 
+I'm currently expanding my cloud engineering knowledge:
+
 ```text
-AWS
- ↓
-Terraform
- ↓
-Kubernetes
- ↓
-Cloud Infrastructure
+             CLOUD ENGINEERING
+                    │
+        ┌───────────┴───────────┐
+        │                       │
+       AWS                  Linux
+        │                       │
+        └───────────┬───────────┘
+                    │
+                  Docker
+                    │
+                    ▼
+                Terraform
+                    │
+                    ▼
+                Kubernetes
+                    │
+                    ▼
+             Cloud Infrastructure
 ```
 
-I'm focused on turning theoretical knowledge into **hands-on cloud projects** and building a strong foundation for a career in Cloud Engineering.
+### Current Focus
+
+- ☁️ AWS infrastructure
+- 🏗️ Terraform / Infrastructure as Code
+- ☸️ Kubernetes
+- 🔐 Cloud networking & security
+- 🚀 Application deployment
+- 🔄 Automation & CI/CD
 
 ---
 
-## 🤝 Connect With Me
+## 🎯 My Cloud Engineering Roadmap
 
-📧 **Email:** anandtiwary658@gmail.com
-
-💼 **LinkedIn:** [linkedin.com/in/anand-tiwary-3234062b2](https://linkedin.com/in/anand-tiwary-3234062b2)
-
-🐙 **GitHub:** [github.com/anandtiwary-cloud](https://github.com/anandtiwary-cloud)
+| Area | Status |
+|---|---|
+| Linux | ✅ Practicing |
+| Git & GitHub | ✅ Practicing |
+| Docker | ✅ Hands-on |
+| Docker Compose | ✅ Hands-on |
+| AWS Fundamentals | 🔄 Learning |
+| AWS Infrastructure | 🔄 Learning |
+| Terraform | 🔄 Learning |
+| Kubernetes | 🔄 Learning |
+| CI/CD | 📌 Next |
+| Advanced Cloud Architecture | 📌 Future |
 
 ---
 
-⭐ Feel free to explore my repositories and follow my journey into Cloud Engineering.
+## 📊 GitHub Stats
+
+![Anand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anandtiwary-cloud&show_icons=true&hide_border=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anandtiwary-cloud&layout=compact&hide_border=true&theme=transparent)
+
+---
+
+## 📈 What I'm Building
+
+I'm focused on turning learning into practical projects rather than only collecting certifications.
+
+My goal is to build projects involving:
+
+```text
+Linux
+  ↓
+AWS
+  ↓
+Docker
+  ↓
+Terraform
+  ↓
+Kubernetes
+  ↓
+Cloud Deployment
+```
+
+Each project will document:
+
+- Architecture
+- Infrastructure
+- Deployment process
+- Configuration
+- Problems encountered
+- Solutions
+- What I learned
+
+---
+
+## 🎓 Education
+
+**Bachelor of Technology — Computer Science & Engineering**
+
+Dr. A.P.J. Abdul Kalam Technical University (AKTU)
+
+---
+
+## 🤝 Let's Connect
+
+📧 **Email:** [anandtiwary658@gmail.com](mailto:anandtiwary658@gmail.com)
+
+💼 **LinkedIn:** [Anand Tiwary](https://linkedin.com/in/anand-tiwary-3234062b2)
+
+🐙 **GitHub:** [anandtiwary-cloud](https://github.com/anandtiwary-cloud)
+
+---
+
+### ⭐ Thanks for visiting!
+
+I'm documenting my journey from **learning cloud technologies → building projects → becoming a Cloud Engineer.**
+
+If you find something useful here, feel free to ⭐ a repository.
+
+
+
+
+ 
